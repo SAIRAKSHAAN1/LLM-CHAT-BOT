@@ -72,3 +72,5 @@ if query:
 
 
     llm_function(query)
+    #streamlit run main.py [ARGUMENTS]
+
