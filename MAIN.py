@@ -7,7 +7,7 @@ st.title("Chat - Gemini Bot")
 
 
 # Set Google API key
-os.environ['GOOGLE_API_KEY'] = "AIzaSyDj0p_dENdzmNvPtkIi9r6hPt6FaRqtTLo"
+os.environ['GOOGLE_API_KEY'] = ""
 genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
 
 
